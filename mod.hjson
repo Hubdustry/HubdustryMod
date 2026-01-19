@@ -1,0 +1,8 @@
+name: "hubdustry"
+displayName: "Hubdustry"
+author: "Aibox"
+description: "A next-generation Mindustry utility ecosystem. Enhances your gameplay with smart tools and features."
+version: "1.0.0"
+minGameVersion: 154
+java: true
+repo: "Hubdustry/HubdustryMod"

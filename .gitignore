@@ -1,0 +1,10 @@
+# JAR files are distributed via GitHub Releases, not committed
+*.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
