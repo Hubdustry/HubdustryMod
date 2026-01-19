@@ -4,6 +4,5 @@ author: "Aibox"
 main: "hubdustry.HubdustryMod"
 description: "A next-generation Mindustry utility ecosystem."
 version: auto
-minGameVersion: 154
-java: true
+minGameVersion: 146
 hidden: true
